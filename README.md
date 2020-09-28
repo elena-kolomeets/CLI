@@ -3,6 +3,8 @@
 Python command line interface tools
 
 ## create_gitignore
+(argparse cli) 
+
 creates a .gitignore file with basic content: 
 
 .DS_Store, .idea, .pytest_cache/, pycache/, *.spec, build/, dist/, venv/
