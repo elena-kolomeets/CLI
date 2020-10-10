@@ -1,9 +1,5 @@
-# CLI tools
-
-Python command line interface tools
-
-## create_gitignore
-(argparse cli) 
+## CLI create_gitignore
+(argparse) 
 
 creates a .gitignore file with basic content: 
 
