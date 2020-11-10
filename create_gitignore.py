@@ -2,7 +2,7 @@ import argparse
 import os
 import sys
 
-ignore_files = ['.DS_Store\n', '.idea\n', '.pytest_cache/\n', '__pycache__/\n', '*.spec\n', 'build/\n', 'dist/\n',
+ignore_files = ['.DS_Store\n', '.idea/\n', '**__pycache__/\n', '*.spec\n', 'build/\n', 'dist/\n', '**bin/\n', '*.sh\n',
                 'venv/\n']
 
 
