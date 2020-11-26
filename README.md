@@ -7,7 +7,7 @@ You can just run the .exe file to create a .gitignore file in the same directory
 
 or you can run .exe or .py file in the terminal with or without optional arguments:
 ```
---path/-p : provide the path to create the .gitignore file outside of current directory
---add/-a : provide one or multiple file or directory names you wish to add to .gitignore file
---help/-h : shows help message
+--path [path] /-p [path] : provide the path to create the .gitignore file outside of current directory
+--add [file] /-a [file]  : provide one or multiple file or directory names you wish to add to .gitignore file
+--help/-h                : shows help message
 ```
